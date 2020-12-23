@@ -22,6 +22,9 @@ def plusMinus(arr):
     print("%6f" % (num_of_neg / n))
     print("%6f" % (num_of_zero / n))
 
+# Investigate this for later use:
+# https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
+
 if __name__ == '__main__':
     n = int(input())
 
